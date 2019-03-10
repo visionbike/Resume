@@ -139,8 +139,8 @@ a {
 .section_content .key {
   list-style-type: none;
   column-count: 3;
-  -moz-column-count: 3;
-  -webkit-column-count: 3;
+  /* -moz-column-count: 3; */
+  /* -webkit-column-count: 3; */
   padding-left: 0.5rem;
 }
 
